@@ -32,7 +32,7 @@ git clone https://github.com/prathamesh-a/graphical-password-authentication.git
 <p>4. <a href="https://github.com/prathamesh-a/graphical-password-authentication/blob/main/client/README.md#installation">Installation of Client</a></p>
 
 ## Usage
-To use the application, follow these steps:
+To use the application, follow the steps:
 
 1. <a href="https://github.com/prathamesh-a/graphical-password-authentication/tree/main/server#usage">Setup Server</a>
 2. <a href="https://github.com/prathamesh-a/graphical-password-authentication/tree/main/client#usage">Setup Client</a>
